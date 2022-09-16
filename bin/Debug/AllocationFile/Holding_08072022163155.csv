@@ -1,0 +1,2 @@
+msgId,requestType,curDate,seg,cmCode,tmCode,cpCode,cliCode,accType,amt,action,RespStatus,RespMessagesCode,RespFeildMsg,RespValidationMsg,CreateDateTime,Source
+07714202207086287464,I,08-Jul-2022,FO,07714,07714,,RNN0244,C,0,D,SUCCESS,01010000,,Submitted to server successfully,08-07-2022 4.33.59 PM,Manual

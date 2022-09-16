@@ -1,0 +1,2 @@
+msgId,requestType,curDate,seg,cmCode,tmCode,cpCode,cliCode,accType,amt,action,RespStatus,RespMessagesCode,RespFeildMsg,RespValidationMsg,CreateDateTime,Source
+07714202207049230659,I,04-Jul-2022,CM,07714,07714,,NYG0012,C,500,U,SUCCESS,01010000,,Submitted to server successfully,04-07-2022 2.37.35 PM,Manual

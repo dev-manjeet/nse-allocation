@@ -1,0 +1,2 @@
+msgId,requestType,curDate,seg,cmCode,tmCode,cpCode,cliCode,accType,amt,action,RespStatus,RespMessagesCode,RespFeildMsg,RespValidationMsg,CreateDateTime
+07714202206157067563,I,15-Jun-2022,CM,07714,07714,,NOK21,C,100,C,SUCCESS,01010000,,Submitted to server successfully,15-06-2022 4.44.57 PM07714202206157067563,I,15-Jun-2022,CM,07714,07714,,NOK21,C,100,C,SUCCESS,01010000,,Submitted to server successfully,15-06-2022 4.44.58 PM
